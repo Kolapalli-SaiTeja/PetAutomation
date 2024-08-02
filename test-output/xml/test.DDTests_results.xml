@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetAutomation"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.453">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPOSTUser"
+                time="2.227"
+                classname="test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.013"
+                classname="test.DDTests">
+            </testcase>
+            <testcase
+                name="testPOSTUser"
+                time="14.880"
+                classname="test.DDTests">
+            </testcase>
+            <testcase
+                name="testPOSTUser"
+                time="2.188"
+                classname="test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.113"
+                classname="test.DDTests">
+            </testcase>
+            <testcase
+                name="testGetUserByName"
+                time="1.032"
+                classname="test.DDTests">
+            </testcase>
+</testsuite>

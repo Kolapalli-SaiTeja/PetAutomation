@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PetAutomation"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.689">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testReadUser"
+                time="1.137"
+                classname="test.UserTests">
+            </testcase>
+            <testcase
+                name="testUpdateUser"
+                time="2.517"
+                classname="test.UserTests">
+            </testcase>
+            <testcase
+                name="testPostUser"
+                time="14.848"
+                classname="test.UserTests">
+            </testcase>
+            <testcase
+                name="testDeleteUser"
+                time="2.187"
+                classname="test.UserTests">
+            </testcase>
+</testsuite>
