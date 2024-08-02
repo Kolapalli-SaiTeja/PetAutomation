@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dea01bab-3df0-4332-8629-6a3eca19bcf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/2eb06313-bb5b-4c45-a271-0b477ae8f975-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/36a04a9b-3333-42a6-8816-8de48ed54a98-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/63e400c9-1c60-44df-b81e-fbf193b98759-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/684885a1-db72-4308-a570-8923950f3096-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6d07b058-050a-4ad8-8af4-44b04c86b086-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/7defbd96-2239-4c00-b18b-6d68a3d23d97-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8180ae79-e7b9-48a9-a107-e6f0884f5289-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/82588b83-1234-4dd8-9421-e47876f80578-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c0eb7355-0a48-4659-8e42-15f4699b3d67-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d3200405-9ec1-495d-831d-57cc84ceb278-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/db8ad4dc-b629-46f6-b1b7-a80ff41e1cca-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/dd74d7bf-738f-4017-96f3-72d235dbcfda-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e30bdca4-e3c2-4565-8ef5-51f1c1b318c1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f11cf369-07b4-4d86-b34a-cb17c84ad835-container.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
