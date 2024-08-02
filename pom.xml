@@ -168,6 +168,13 @@
             <version>3.12.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.3.1</version>
+        </dependency>
+
+
 
 
     </dependencies>
@@ -216,25 +223,9 @@
                 </plugin>
 
 
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-surefire-plugin</artifactId>
-                    <version>3.3.1</version>
-                    <configuration>
 
 
-                    </configuration>
-                </plugin>
 
-
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-compiler-plugin</artifactId>
-                    <version>3.13.0</version>
-                    <configuration>
-
-                    </configuration>
-                </plugin>
 
 
             </plugins>
